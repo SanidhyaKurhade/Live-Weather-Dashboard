@@ -57,3 +57,4 @@ To provide a dynamic and automated weather monitoring dashboard that enables ana
 4. **Power BI Service** schedules daily refresh for automation
 
 ---
+## Note(Make sure to refresh the Power BI file to see current live waether updates)
